@@ -1,0 +1,7 @@
+D:\Work\Programok\ieszk\haromszogek2\haromszogek2\bin\Debug\haromszogek2.exe
+D:\Work\Programok\ieszk\haromszogek2\haromszogek2\bin\Debug\haromszogek2.pdb
+D:\Work\Programok\ieszk\haromszogek2\haromszogek2\obj\x86\Debug\haromszogek2.Form1.resources
+D:\Work\Programok\ieszk\haromszogek2\haromszogek2\obj\x86\Debug\haromszogek2.Properties.Resources.resources
+D:\Work\Programok\ieszk\haromszogek2\haromszogek2\obj\x86\Debug\haromszogek2.csproj.GenerateResource.Cache
+D:\Work\Programok\ieszk\haromszogek2\haromszogek2\obj\x86\Debug\haromszogek2.exe
+D:\Work\Programok\ieszk\haromszogek2\haromszogek2\obj\x86\Debug\haromszogek2.pdb
