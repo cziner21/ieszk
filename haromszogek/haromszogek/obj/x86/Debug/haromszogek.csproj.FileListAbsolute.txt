@@ -1,0 +1,8 @@
+D:\Work\Programok\ieszk\haromszogek\haromszogek\bin\Debug\haromszogek.exe
+D:\Work\Programok\ieszk\haromszogek\haromszogek\bin\Debug\haromszogek.pdb
+D:\Work\Programok\ieszk\haromszogek\haromszogek\obj\x86\Debug\haromszogek.Form1.resources
+D:\Work\Programok\ieszk\haromszogek\haromszogek\obj\x86\Debug\haromszogek.Properties.Resources.resources
+D:\Work\Programok\ieszk\haromszogek\haromszogek\obj\x86\Debug\haromszogek.csproj.GenerateResource.Cache
+D:\Work\Programok\ieszk\haromszogek\haromszogek\obj\x86\Debug\haromszogek.exe
+D:\Work\Programok\ieszk\haromszogek\haromszogek\obj\x86\Debug\haromszogek.pdb
+d:\Work\Programok\ieszk\haromszogek\haromszogek\obj\x86\Debug\haromszogek.csprojResolveAssemblyReference.cache

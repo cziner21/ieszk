@@ -1,0 +1,8 @@
+D:\Work\Programok\ieszk\sakktabla\sakktabla\bin\Debug\sakktabla.exe
+D:\Work\Programok\ieszk\sakktabla\sakktabla\bin\Debug\sakktabla.pdb
+D:\Work\Programok\ieszk\sakktabla\sakktabla\obj\x86\Debug\sakktabla.csprojResolveAssemblyReference.cache
+D:\Work\Programok\ieszk\sakktabla\sakktabla\obj\x86\Debug\sakktabla.Form1.resources
+D:\Work\Programok\ieszk\sakktabla\sakktabla\obj\x86\Debug\sakktabla.Properties.Resources.resources
+D:\Work\Programok\ieszk\sakktabla\sakktabla\obj\x86\Debug\sakktabla.csproj.GenerateResource.Cache
+D:\Work\Programok\ieszk\sakktabla\sakktabla\obj\x86\Debug\sakktabla.exe
+D:\Work\Programok\ieszk\sakktabla\sakktabla\obj\x86\Debug\sakktabla.pdb

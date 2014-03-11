@@ -1,0 +1,8 @@
+D:\Work\Programok\ieszk\rendezoAlgoritmusok\rendezoAlgoritmusok\obj\x86\Debug\rendezoAlgoritmusok.Form1.resources
+D:\Work\Programok\ieszk\rendezoAlgoritmusok\rendezoAlgoritmusok\obj\x86\Debug\rendezoAlgoritmusok.Properties.Resources.resources
+D:\Work\Programok\ieszk\rendezoAlgoritmusok\rendezoAlgoritmusok\obj\x86\Debug\rendezoAlgoritmusok.csproj.GenerateResource.Cache
+D:\Work\Programok\ieszk\rendezoAlgoritmusok\rendezoAlgoritmusok\bin\Debug\rendezoAlgoritmusok.exe
+D:\Work\Programok\ieszk\rendezoAlgoritmusok\rendezoAlgoritmusok\bin\Debug\rendezoAlgoritmusok.pdb
+D:\Work\Programok\ieszk\rendezoAlgoritmusok\rendezoAlgoritmusok\obj\x86\Debug\rendezoAlgoritmusok.exe
+D:\Work\Programok\ieszk\rendezoAlgoritmusok\rendezoAlgoritmusok\obj\x86\Debug\rendezoAlgoritmusok.pdb
+d:\Work\Programok\ieszk\rendezoAlgoritmusok\rendezoAlgoritmusok\obj\x86\Debug\rendezoAlgoritmusok.csprojResolveAssemblyReference.cache
