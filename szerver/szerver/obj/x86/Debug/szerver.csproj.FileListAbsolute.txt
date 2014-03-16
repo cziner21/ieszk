@@ -1,0 +1,5 @@
+D:\Work\Programok\ieszk\szerver\szerver\bin\Debug\szerver.exe
+D:\Work\Programok\ieszk\szerver\szerver\bin\Debug\szerver.pdb
+D:\Work\Programok\ieszk\szerver\szerver\obj\x86\Debug\szerver.exe
+D:\Work\Programok\ieszk\szerver\szerver\obj\x86\Debug\szerver.pdb
+d:\Work\Programok\ieszk\szerver\szerver\obj\x86\Debug\szerver.csprojResolveAssemblyReference.cache

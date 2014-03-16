@@ -1,0 +1,4 @@
+D:\Work\Programok\ieszk\kliens\kliens\bin\Debug\kliens.exe
+D:\Work\Programok\ieszk\kliens\kliens\bin\Debug\kliens.pdb
+D:\Work\Programok\ieszk\kliens\kliens\obj\x86\Debug\kliens.exe
+D:\Work\Programok\ieszk\kliens\kliens\obj\x86\Debug\kliens.pdb
