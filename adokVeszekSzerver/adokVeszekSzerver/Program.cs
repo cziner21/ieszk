@@ -93,6 +93,8 @@ namespace adokVeszekSzerver
                 this.Port = port;
                 this._felhasznalok = new List<User>();
                 FelhasznalokFeltoltese();
+                _parancsok = new List<string>();
+                parancsokFeltoltese();
                 p = new Porteka();
                 
             }
@@ -115,6 +117,29 @@ namespace adokVeszekSzerver
                 get { return _parancsok; }
                 set { _parancsok = value; }
             }
+
+            private void parancsokFeltoltese() {
+                Parancsok.Add("HELP - Kilistázza a parancsokat");
+                Parancsok.Add("LISTAZ - Kilistázza a termékeket");
+                Parancsok.Add("LOGIN - Bejelentkezés");
+                Parancsok.Add("FELRAK - Új termék felvitele a rendszerbe");
+                Parancsok.Add("MEGVESZ - Termék megvétele");
+                Parancsok.Add("TOROL - Termék törlése");
+                Parancsok.Add("ELADASOK - Kilistázza ki mit vett meg");
+            }
+
+            public void Login(string username, string pass) {
+                try {
+                    User tmp = new User(username, pass);
+                    if (Felhasznalok.Contains(tmp)) {
+                        Console.WriteLine("üdv, {0}!", username);
+                    }
+                }
+                catch (Exception e) {
+                    Console.WriteLine(e.Message);
+                }
+            }
+
             protected List<User> _felhasznalok;
             public List<User> Felhasznalok {
                 get { return _felhasznalok; }
@@ -147,6 +172,8 @@ namespace adokVeszekSzerver
                 }
                 return null;
             }
+
+           
 
             public void Listaz() {
                 foreach (var item in p.Portekak) {
@@ -191,7 +218,7 @@ namespace adokVeszekSzerver
 
         public static Thread t;
         static void Main(string[] args) {
-            FoSzerver fsz = new FoSzerver("192.168.1.101", 80);
+            FoSzerver fsz = new FoSzerver("127.0.0.1", 80);
             fsz.StartSzerver();
             Console.WriteLine("A szerver elindult");
             Console.WriteLine("Gépelje be a HELP parancsot a parancslista megjelenítéséhez!");
@@ -216,6 +243,7 @@ namespace adokVeszekSzerver
                             break;
                     case "LOGIN":
                         //todo: ide login metódus
+                            fsz.Login(oPreszek[1], oPreszek[2]);
                             break;
                     case "FELRAK":
                             fsz.Felrak(oPreszek[1], int.Parse(oPreszek[2]));
