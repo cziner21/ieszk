@@ -1,0 +1,5 @@
+D:\Work\Programok\ieszk\adokVeszekSzerver2\adokVeszekSzerver2\bin\Debug\adokVeszekSzerver2.exe
+D:\Work\Programok\ieszk\adokVeszekSzerver2\adokVeszekSzerver2\bin\Debug\adokVeszekSzerver2.pdb
+D:\Work\Programok\ieszk\adokVeszekSzerver2\adokVeszekSzerver2\obj\x86\Debug\adokVeszekSzerver2.exe
+D:\Work\Programok\ieszk\adokVeszekSzerver2\adokVeszekSzerver2\obj\x86\Debug\adokVeszekSzerver2.pdb
+d:\Work\Programok\ieszk\adokVeszekSzerver2\adokVeszekSzerver2\obj\x86\Debug\adokVeszekSzerver2.csprojResolveAssemblyReference.cache

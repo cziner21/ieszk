@@ -1,0 +1,4 @@
+D:\Work\Programok\ieszk\adokVeszekKliens2\adokVeszekKliens2\bin\Debug\adokVeszekKliens2.exe
+D:\Work\Programok\ieszk\adokVeszekKliens2\adokVeszekKliens2\bin\Debug\adokVeszekKliens2.pdb
+D:\Work\Programok\ieszk\adokVeszekKliens2\adokVeszekKliens2\obj\x86\Debug\adokVeszekKliens2.exe
+D:\Work\Programok\ieszk\adokVeszekKliens2\adokVeszekKliens2\obj\x86\Debug\adokVeszekKliens2.pdb
