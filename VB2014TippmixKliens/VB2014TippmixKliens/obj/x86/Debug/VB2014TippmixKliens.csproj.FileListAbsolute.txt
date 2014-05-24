@@ -1,0 +1,11 @@
+D:\Work\Programok\ieszk\VB2014TippmixKliens\VB2014TippmixKliens\bin\Debug\VB2014TippmixKliens.exe
+D:\Work\Programok\ieszk\VB2014TippmixKliens\VB2014TippmixKliens\bin\Debug\VB2014TippmixKliens.pdb
+D:\Work\Programok\ieszk\VB2014TippmixKliens\VB2014TippmixKliens\obj\x86\Debug\VB2014TippmixKliens.Form1.resources
+D:\Work\Programok\ieszk\VB2014TippmixKliens\VB2014TippmixKliens\obj\x86\Debug\VB2014TippmixKliens.Properties.Resources.resources
+D:\Work\Programok\ieszk\VB2014TippmixKliens\VB2014TippmixKliens\obj\x86\Debug\VB2014TippmixKliens.csproj.GenerateResource.Cache
+D:\Work\Programok\ieszk\VB2014TippmixKliens\VB2014TippmixKliens\obj\x86\Debug\VB2014TippmixKliens.exe
+D:\Work\Programok\ieszk\VB2014TippmixKliens\VB2014TippmixKliens\obj\x86\Debug\VB2014TippmixKliens.pdb
+D:\Work\Programok\ieszk\VB2014TippmixKliens\VB2014TippmixKliens\obj\x86\Debug\VB2014TippmixKliens.csoportok.resources
+D:\Work\Programok\ieszk\VB2014TippmixKliens\VB2014TippmixKliens\obj\x86\Debug\VB2014TippmixKliens.csprojResolveAssemblyReference.cache
+D:\Work\Programok\ieszk\VB2014TippmixKliens\VB2014TippmixKliens\obj\x86\Debug\VB2014TippmixKliens.login.resources
+D:\Work\Programok\ieszk\VB2014TippmixKliens\VB2014TippmixKliens\obj\x86\Debug\VB2014TippmixKliens.tippelek.resources
