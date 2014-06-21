@@ -1,0 +1,6 @@
+D:\Work\Programok\ieszk\VB2014Szerver\VB2014Szerver\bin\Debug\VB2014Szerver.dll.config
+D:\Work\Programok\ieszk\VB2014Szerver\VB2014Szerver\bin\Debug\VB2014Szerver.dll
+D:\Work\Programok\ieszk\VB2014Szerver\VB2014Szerver\bin\Debug\VB2014Szerver.pdb
+D:\Work\Programok\ieszk\VB2014Szerver\VB2014Szerver\obj\Debug\VB2014Szerver.dll
+D:\Work\Programok\ieszk\VB2014Szerver\VB2014Szerver\obj\Debug\VB2014Szerver.pdb
+D:\Work\Programok\ieszk\VB2014Szerver\VB2014Szerver\obj\Debug\VB2014Szerver.csprojResolveAssemblyReference.cache
